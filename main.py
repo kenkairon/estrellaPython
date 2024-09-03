@@ -1,4 +1,6 @@
 # pip install PythonTurtle
+
+# importa la biblioteca turtle que proporciona una forma de dibuja gráficos en una ventana
 import turtle
 
 ventana = turtle.Screen()
