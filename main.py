@@ -29,3 +29,4 @@ for i in range(numero_estrella*5):
 ventana.exitonclick()
 
 
+
